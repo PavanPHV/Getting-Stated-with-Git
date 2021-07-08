@@ -1,4 +1,4 @@
-def addme(a,d):
+def additon(a,d):
     return a+d
 
-print(addme(4,6))
+print(addition(4,6))
